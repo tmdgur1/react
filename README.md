@@ -1,2 +1,2 @@
-# react
-react 자습서
+# React
+React 자습서
